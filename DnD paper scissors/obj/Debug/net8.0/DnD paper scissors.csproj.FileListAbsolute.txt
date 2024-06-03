@@ -1,0 +1,4 @@
+C:\Users\Qub3zGamingL3\source\repos\DnD paper scissors\DnD paper scissors\obj\Debug\net8.0\DnD paper scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qub3zGamingL3\source\repos\DnD paper scissors\DnD paper scissors\obj\Debug\net8.0\DnD paper scissors.AssemblyInfoInputs.cache
+C:\Users\Qub3zGamingL3\source\repos\DnD paper scissors\DnD paper scissors\obj\Debug\net8.0\DnD paper scissors.AssemblyInfo.cs
+C:\Users\Qub3zGamingL3\source\repos\DnD paper scissors\DnD paper scissors\obj\Debug\net8.0\DnD paper scissors.csproj.CoreCompileInputs.cache
